@@ -1,20 +1,6 @@
-*{
-    padding:0;
-    margin:0;
-    box-sizing:border-box;
-}
-
 h1{
-    color:#040404;
-    size:30px;
+    color: rgb(6, 25, 94);
 }
-#para{
-    color:#0a8b9e;
-}
-IAF{
-    color:rgb(36, 87, 98);
-    border:1px solid rgb(233, 98, 98);
-}
-h1,h2,p{
-    color:#2d026d;
+p{
+    color: rgb(179, 18, 18);
 }
